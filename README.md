@@ -1,7 +1,7 @@
 <h1>Carrossel de Imagens 3D</h1>
 <p>Site desenvolvido em html, CSS e JavaScrip utilizando os recursos e efeitos visuais disponiveis no CSS juntamente com o JQuery para criar o efeito visual de 3D de um carrossel de imagens na página web</p>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Fimages%2Fcarrossel-de-imagens-3d.png?alt=media&token=c5e10fd8-6808-47a7-85e0-7109358aff4e" alt="site carrossel de imagens 3d" height="500">
+<img src="https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Fimages%2Fcarrossel-de-imagens-3d.png?alt=media&token=c5e10fd8-6808-47a7-85e0-7109358aff4e" alt="site carrossel de imagens 3d" height="250">
 <a href="https://werlen-dev.web.app/carrossel-de-imagens-3d/">Visitar site</a>
 <br/>
 <br/>
